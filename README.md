@@ -8,7 +8,9 @@ This task of this project is to build a portfolio using React.
 
 The portfolio will use React, React icons, HTML and CSS3.
 
-The URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**
+The URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
+
+The URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio/**.
 
 The repository name is **20s-react-portfolio**
 

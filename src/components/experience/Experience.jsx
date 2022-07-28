@@ -52,15 +52,31 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>React</h4>
-            
+
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>SASS</h4>
+
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Web APIs</h4>
+
               </div>
             </article>
           </div>
         </div>
+
+
         {/* END OF FRONTEND */}
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Backend Development and Test Tools/Others</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
@@ -94,7 +110,32 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Mongoose</h4>
-          
+
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Insomnia</h4>
+
+
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>GraphQL</h4>
+
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>GiT</h4>
+
+
+
+
               </div>
             </article>
           </div>
