@@ -25,7 +25,8 @@ header {
   align-items: center;
   gap: 0.9rem;
   position: absolute;
-  left: 0;
+  font-size: 2rem;
+  left: 10px;
   bottom: 4rem;
 }
 

@@ -16,11 +16,11 @@ nav {
 
 nav a {
   background: transparent;
-  padding: 0.3rem;
+  padding: 0.2rem;
   border-radius: 50%;
   display: flex;
   color: var(--color-light);
-  font-size: 0.66rem;
+  font-size: 0.70rem;
 }
 
 nav a:hover {
