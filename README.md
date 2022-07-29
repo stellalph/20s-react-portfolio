@@ -19,10 +19,13 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 ## Installation
 
-* This portfolio application requires the installation of node.js from the website, https://www.node.js and the node package manager(npm) which is a software manager and installer which puts the modules so that the node project can utilize it, and also, it manages dependency conflicts intelligently and initialized using **npm init".  The package.json will be generated and will contains all the details of the application in which the user have inputted during the npm initialization.
+- This portfolio application requires the installation of node.js from the website, https://www.node.js and the node package manager(npm) which is a software manager and installer which puts the modules so that the node project can utilize it, and also, it manages dependency conflicts intelligently and initialized using **npm init**". The package.json will be generated and will contains all the details of the application in which the user have inputted during the npm initialization.
 
-* 
+- This react application is created by entering :-
 
+```
+npx create-react-app 20S-react-portfolio
+```
 
 ## Usage
 
