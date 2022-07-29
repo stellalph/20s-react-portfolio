@@ -4,13 +4,11 @@
 
 ## Description
 
-This portfolio will use React, React icons, HTML and CSS3.
+This portfolio is a single page application built up by using React, React icons, HTML, CSS3 and a place to share the six of my projects with developers and to collaborate on the projects.
 
-The URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
+This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio/**.
 
-The URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio/**.
-
-The repository name is **20s-react-portfolio**.
+The repository name is **20s-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
 
 ## Table of Contents
 
