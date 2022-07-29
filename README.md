@@ -17,7 +17,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [References](#references)
-- [License](#license
+- [License](#license)
 
 ## Installation
 
@@ -34,6 +34,9 @@ npm install @emailjs/browser
 npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
 ```
 ## Deployment
+
+To deploy the react application, we add the homepage to package.json:-
+
 
 
 
