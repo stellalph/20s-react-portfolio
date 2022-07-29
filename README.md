@@ -4,7 +4,7 @@
 
 ## Description
 
-This portfolio is a single page application built up by using **React, React icons, HTML, CSS3** and a place to share the six of my projects with developers and to collaborate on the projects.
+This portfolio is a single page application built up by using **React, React icons, HTML, CSS3** and a place to share the six of the projects with developers and to collaborate on the projects.
 This will show the employers looking for candidates with experience building the single-page application and assess whether the skills are what they wanted in their candidates.
 
 This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio/**.
@@ -65,6 +65,7 @@ WHEN I view the navigation titles
 THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
 WHEN I click on a navigation title
 THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
+````
 WHEN I load the portfolio the first time
 THEN the About Me title and section are selected by default
 WHEN I am presented with the About Me section

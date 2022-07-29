@@ -4,7 +4,7 @@ import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
-// import emailjs from 'emailjs-com'
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
   const form = useRef();
@@ -12,7 +12,10 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    // emailjs.sendForm('service_3fjfb17', 'template_ky1ucaz', form.current, 'user_641J0AWGxx4qcKi835yDq')
+    emailjs.sendForm('service_q9ensf9', 'template_n3q79rj', form.current, 'user_9chTaQ2GjZl9I59a8')
+
+    
+
 
     e.target.reset()
   };
@@ -34,7 +37,7 @@ const Contact = () => {
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Stella Ling</h5>
-            <a href="https://www.messenger.com/" target="_blank" rel="noopener noreferrer">Send a message</a>
+            <a href="https://m.me/Ste112/" target="_blank" rel="noopener noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
