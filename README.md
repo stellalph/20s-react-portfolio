@@ -37,7 +37,7 @@ npm run build (builds the app for production to the folder to correctly bundles 
 
 *   To deploy the react application, we add the homepage to package.json:-
 
-    ![alt text](/assets/img00.png)
+    ![alt text](./src/assets/img00.png)
 
 *   To install gh-pages and add deploy to scripts in package.json
 
@@ -45,7 +45,7 @@ npm run build (builds the app for production to the folder to correctly bundles 
     npm install --save gh-pages
     ````
 
-    ![alt text](/assets/img03.png)
+    ![alt text](./src/assets/img02.png)
 
 *   To deploy to the site by running 
     ````
