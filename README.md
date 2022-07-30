@@ -134,7 +134,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 ## References
 
-- The Unit Ahead Materials on React
+- The Unit Ahead Materials on React (React Hooks, State, and Components)
 - Unit 20 Student Mini Project
 - React-Icons (https://react-icons.github.io/react-icons/)
 
