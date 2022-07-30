@@ -32,6 +32,9 @@ npm start (run the apps in the development and http://localhost:3000 to view it 
 npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
 npm install @emailjs/browser
 npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
+npm install validator (to validate the email)
+npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
+git 
 ```
 
 ## Deployment
