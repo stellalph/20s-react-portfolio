@@ -25,17 +25,14 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 - This react application is created by entering :-
 
-```
-npx create-react-app 20S-react-portfolio
-npm install
-npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
-npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
-npm install @emailjs/browser
-npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
-npm install validator (to validate the email)
-npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
-git 
-```
+      -npx create-react-app 20S-react-portfolio
+      -npm install
+      -npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
+      -npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
+      -npm install @emailjs/browser
+      -npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
+      -npm install validator (to validate the email)
+      -npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
 
 ## Deployment
 
@@ -58,63 +55,58 @@ git
 
 ## Usage
 
-  **Home Page**
+1.  Home Page
 
-* GIVEN a single-page application portfolio for a web developer
-* WHEN I load the portfolio
-* THEN I am presented with a page containing a header, a section for content, and a footer
-* WHEN I view the header
-* THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
-* WHEN I view the navigation titles
-* THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-* WHEN I click on a navigation title
-* THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
+    - GIVEN a single-page application portfolio for a web developer
+      WHEN I load the portfolio
 
-  ![alt text](./src/assets/img03.png)
+- THEN I am presented with a page containing a header, a section for content, and a footer
+- WHEN I view the header
+- THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
+- WHEN I view the navigation titles
+- THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
+- WHEN I click on a navigation title
+- THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
 
- 
+![alt text](./src/assets/img03.png)
+
 **About Me**
 
-* WHEN I load the portfolio the first time
-* THEN the About Me title and section are selected by default
-* WHEN I am presented with the About Me section
-* THEN I see a recent photo or avatar of the developer and a short bio about them
+- WHEN I load the portfolio the first time
+- THEN the About Me title and section are selected by default
+- WHEN I am presented with the About Me section
+- THEN I see a recent photo or avatar of the developer and a short bio about them
 
-  ![alt text](./src/assets/img04.png) 
+  ![alt text](./src/assets/img04.png)
 
 **Skill**
 
-* List of Technologies, Front-End, Back-End Programming Languages and Testing Tools acquired.
+- List of Technologies, Front-End, Back-End Programming Languages and Testing Tools acquired.
 
-  ![alt text](./src/assets/img05.png) 
+  ![alt text](./src/assets/img05.png)
 
 **Project**
 
-* WHEN I am presented with the Portfolio section
-* THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
+- WHEN I am presented with the Portfolio section
+- THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
 
   ![alt text](./src/assets/img06.png)
-* WHEN I am presented with the Contact section
-* THEN I see a contact form with fields for a name, an email address, and a message
-* WHEN I move my cursor out of one of the form fields without entering text
-* THEN I receive a notification that this field is required
-* WHEN I enter text into the email address field
-* THEN I receive a notification if I have entered an invalid email address
+
+- WHEN I am presented with the Contact section
+- THEN I see a contact form with fields for a name, an email address, and a message
+- WHEN I move my cursor out of one of the form fields without entering text
+- THEN I receive a notification that this field is required
+- WHEN I enter text into the email address field
+- THEN I receive a notification if I have entered an invalid email address
 
   ![alt text](./src/assets/img07.png)
   ![alt text](./src/assets/img010.png)
-
 
 WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 
-
-
-
-
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-
 
 ## References
 
