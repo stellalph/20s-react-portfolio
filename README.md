@@ -25,14 +25,14 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 - This react application is created by entering :-
 
-      *npx create-react-app 20S-react-portfolio
-      *npm install
-      *npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
-      *npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
-      *npm install @emailjs/browser
-      *npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
-      *npm install validator (to validate the email)
-      *npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
+            *npx create-react-app 20S-react-portfolio
+      npm install
+      npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
+      npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
+      npm install @emailjs/browser
+      npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
+      npm install validator (to validate the email)
+      npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
 
 ## Deployment
 
