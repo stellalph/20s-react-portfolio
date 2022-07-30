@@ -15,7 +15,7 @@ const Contact = () => {
 
   const [emailError, setEmailError] = useState('')
 
-
+// EMAIL VALIDATING
   const handleChange = (e) => {
     if (validator.isEmail(e.target.value)) {
       console.log("good email")
@@ -29,7 +29,7 @@ const Contact = () => {
     console.log(e.target.value)
 
   };
-
+// SEND MESSAGE BY SENDER TO INBOX
   const sendEmail = (e) => {
     e.preventDefault();
 

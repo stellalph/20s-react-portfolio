@@ -9,6 +9,8 @@ import IMG6 from '../../assets/portfolio6.png'
 import { FaGithub } from 'react-icons/fa'
 import { GrDeploy} from 'react-icons/gr'
 
+// SIX OF MY PROJECTS.....
+
 const data = [
   {
     id: 1,
