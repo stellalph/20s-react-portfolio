@@ -6,7 +6,8 @@ import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
-
+import { FaGithub } from 'react-icons/fa'
+import { GrDeploy} from 'react-icons/gr'
 
 const data = [
   {
@@ -72,8 +73,8 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className='btn' target='_blank'rel="noopener noreferrer">Github</a>
-                <a href={demo} className='btn btn-primary' target='_blank' rel="noopener noreferrer">Deployed Link</a>
+                <a href={github} className='btn' target='_blank'rel="noopener noreferrer" ><FaGithub/>Github</a>
+                <a href={demo} className='btn btn-primary' target='_blank' rel="noopener noreferrer"><GrDeploy/>Deployed Link</a>
               </div>
             </article>
             )
