@@ -20,7 +20,7 @@ nav a {
   border-radius: 50%;
   display: flex;
   color: var(--color-light);
-  font-size: 0.9rem;
+  font-size: 0.65rem;
 }
 
 nav a:hover {
