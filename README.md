@@ -123,7 +123,7 @@ The repository name is **stella-react-portfolio** and the URL of the GitHub repo
 - THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 
   ![alt text](./src/assets/img08.png)
-  ![alt text](./src/assets/img09.png)
+  ![alt text](./src/assets/img09.jpg)
 
 10. **Footer**
 
