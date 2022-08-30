@@ -4,7 +4,7 @@ import { MdOutlineEmail } from 'react-icons/md'
 import { RiMessengerLine } from 'react-icons/ri'
 import { BsWhatsapp } from 'react-icons/bs'
 import { useRef } from 'react';
-import emailjs from 'emailjs-com'
+// import emailjs from 'emailjs-com'
 
 import { useState } from "react";
 import validator from 'validator'
@@ -30,13 +30,13 @@ const Contact = () => {
 
   };
 // SEND MESSAGE BY SENDER TO INBOX
-  const sendEmail = (e) => {
-    e.preventDefault();
+const sendEmail = (e) => {
+e.preventDefault();
 
-    emailjs.sendForm('service_q9ensf9', 'template_n3q79rj', form.current, 'user_9chTaQ2GjZl9I59a8')
 
-    e.target.reset()
-  };
+
+ e.target.reset()
+};
 
   return (
     <section id='contact'>
