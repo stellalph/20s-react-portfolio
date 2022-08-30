@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/20s-react-portfolio/static/css/main.0ab35fee.css",
-    "main.js": "/20s-react-portfolio/static/js/main.8a01dde6.js",
-    "static/media/portfolio1.png": "/20s-react-portfolio/static/media/portfolio1.e95f4102f3874405ad02.png",
-    "static/media/portfolio6.png": "/20s-react-portfolio/static/media/portfolio6.92c16285e790ed35da3d.png",
-    "static/media/portfolio5.png": "/20s-react-portfolio/static/media/portfolio5.618b2d46b6befd66192a.png",
-    "static/media/portfolio3.png": "/20s-react-portfolio/static/media/portfolio3.13a97e52ba14a3b75ef1.png",
-    "static/media/portfolio2.png": "/20s-react-portfolio/static/media/portfolio2.2afb637c7b5b83c013a5.png",
-    "static/media/cv.pdf": "/20s-react-portfolio/static/media/cv.4d9a3c317414817e300f.pdf",
-    "static/media/portfolio4.png": "/20s-react-portfolio/static/media/portfolio4.32dd91518d2ce8908987.png",
+    "main.js": "/20s-react-portfolio/static/js/main.61d8d788.js",
+    "static/media/cv.pdf": "/20s-react-portfolio/static/media/cv.745d1713db60eb030778.pdf",
+    "static/media/portfolio4.jpg": "/20s-react-portfolio/static/media/portfolio4.c9082412a12e93e33739.jpg",
+    "static/media/portfolio1.jpg": "/20s-react-portfolio/static/media/portfolio1.b2df7a41f6356d27ecb3.jpg",
+    "static/media/portfolio6.jpg": "/20s-react-portfolio/static/media/portfolio6.f68d546cd59b71e0832e.jpg",
+    "static/media/portfolio3.jpg": "/20s-react-portfolio/static/media/portfolio3.be9b0ca6eaf1816fd0fc.jpg",
+    "static/media/portfolio2.jpg": "/20s-react-portfolio/static/media/portfolio2.5da78dc045da38667468.jpg",
+    "static/media/portfolio5.jpg": "/20s-react-portfolio/static/media/portfolio5.593f10e9eec182b48095.jpg",
     "static/media/me-about.jpg": "/20s-react-portfolio/static/media/me-about.60f436ef84e2b76ccfcd.jpg",
     "static/media/me.jpg": "/20s-react-portfolio/static/media/me.cfecd5718577411739b4.jpg",
     "index.html": "/20s-react-portfolio/index.html",
     "main.0ab35fee.css.map": "/20s-react-portfolio/static/css/main.0ab35fee.css.map",
-    "main.8a01dde6.js.map": "/20s-react-portfolio/static/js/main.8a01dde6.js.map"
+    "main.61d8d788.js.map": "/20s-react-portfolio/static/js/main.61d8d788.js.map"
   },
   "entrypoints": [
     "static/css/main.0ab35fee.css",
-    "static/js/main.8a01dde6.js"
+    "static/js/main.61d8d788.js"
   ]
 }
