@@ -7,9 +7,9 @@
 This portfolio is a single page application built up by using **React, React icons, HTML, CSS3** and a place to share the six of the projects with developers and to collaborate on the projects.
 This will show the employers looking for candidates with experience building the single-page application and assess whether the skills are what they wanted in their candidates.
 
-This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio/**.
+This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/stella-react-portfolio**.
 
-The repository name is **20s-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
+The repository name is **stella-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
     - npx create-react-app 20S-react-portfolio
     - npm install
     - npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
-    - npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
+    - npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons    for this application)
     - npm install @emailjs/browser
     - npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
     - npm install validator (to validate the email)
@@ -72,7 +72,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 2.  **The navigation bar (floating)**
 
-![alt text](./src/assets/img13fnav.png)
+  ![alt text](./src/assets/img13fnav.png)
 
 3.  **About Me Section**
 
@@ -81,13 +81,13 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - WHEN I am presented with the About Me section
 - THEN I see a recent photo or avatar of the developer and a short bio about them
 
-  ![alt text](./src/assets/img04.png)
+    ![alt text](./src/assets/img04.png)
 
 4.  **Skill Section**
 
 - List of Technologies, Front-End, Back-End Programming Languages and Testing Tools acquired.
 
-![alt text](./src/assets/img05.png)
+  ![alt text](./src/assets/img05.png)
 
 5.  **Portfolio Section**
 

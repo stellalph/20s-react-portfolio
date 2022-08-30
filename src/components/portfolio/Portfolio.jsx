@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.png'
-import IMG2 from '../../assets/portfolio2.png'
-import IMG3 from '../../assets/portfolio3.png'
-import IMG4 from '../../assets/portfolio4.png'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.png'
+import IMG1 from '../../assets/portfolio1.jpg'
+import IMG2 from '../../assets/portfolio2.jpg'
+import IMG3 from '../../assets/portfolio3.jpg'
+import IMG4 from '../../assets/portfolio4.jpg'
+import IMG5 from '../../assets/portfolio5.jpg'
+import IMG6 from '../../assets/portfolio6.jpg'
 import { FaGithub } from 'react-icons/fa'
 import { GrDeploy} from 'react-icons/gr'
 
@@ -22,9 +22,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Team Profile Generator',
-    github: 'https://github.com/stellalph/Team-Profile-Generator.git',
-    demo: 'https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view'
+    title: 'SKLHub',
+    github: 'https://github.com/stellalph/sklhub.git',
+    demo: 'https://warm-citadel-17427.herokuapp.com/'
   },
   {
     id: 3,
@@ -36,9 +36,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'The Tech Blog',
-    github: 'https://github.com/stellalph/14-MVC-Tech-Blog.git',
-    demo: 'https://stark-tor-51492.herokuapp.com/'
+    title: 'MERN Ski Resort',
+    github: 'https://github.com/stellalph/MERN-Ski-Resort.git',
+    demo: 'https://still-harbor-63486.herokuapp.com/'
   },
   {
     id: 5,
@@ -50,9 +50,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Code Quiz',
-    github: 'https://github.com/stellalph/JS_CODE_QUIZ.git',
-    demo: 'https://stellalph.github.io/JS_CODE_QUIZ/'
+    title: 'MERN Book Search Engine',
+    github: 'https://github.com/stellalph/21-MERN-Book-Search-Engine.git',
+    demo: 'https://protected-brushlands-99995.herokuapp.com/'
   },
  
 
