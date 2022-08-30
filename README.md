@@ -94,7 +94,7 @@ The repository name is **stella-react-portfolio** and the URL of the GitHub repo
 - WHEN I am presented with the Portfolio section
 - THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
 
-  ![alt text](./src/assets/img06.png)
+  ![alt text](./src/assets/img06.jpg)
 
 6.  **Contact Section**
 
