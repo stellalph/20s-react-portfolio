@@ -7,7 +7,7 @@
 This portfolio is a single page application built up by using **React, React icons, HTML, CSS3** and a place to share the six of the projects with developers and to collaborate on the projects.
 This will show the employers looking for candidates with experience building the single-page application and assess whether the skills are what they wanted in their candidates.
 
-This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/stella-react-portfolio**.
+This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio**.
 
 The repository name is **stella-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
 
