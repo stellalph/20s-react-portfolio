@@ -81,7 +81,7 @@ The repository name is **stella-react-portfolio** and the URL of the GitHub repo
 - WHEN I am presented with the About Me section
 - THEN I see a recent photo or avatar of the developer and a short bio about them
 
-    ![alt text](./src/assets/img04.png)
+    ![alt text](./src/assets/img04.jpg)
 
 4.  **Skill Section**
 
