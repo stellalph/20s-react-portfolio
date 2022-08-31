@@ -9,7 +9,7 @@ This will show the employers looking for candidates with experience building the
 
 This application is deployed to GitHub Pages and the URL of the functional deployed application is **https://stellalph.github.io/20s-react-portfolio**.
 
-The repository name is **stella-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
+The repository name is **20s-react-portfolio** and the URL of the GitHub repository is **https://github.com/stellalph/20s-react-portfolio.git**.
 
 ## Table of Contents
 
