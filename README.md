@@ -32,8 +32,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
     - npm install @emailjs/browser
     - npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
     - npm install validator (to validate the email)
-    - npm install emailjs-clm --save (as dependencies) for the sender to send messages to my inbox.
-
+ 
 ## Deployment
 
 - To deploy the react application, we add the homepage to package.json:-
