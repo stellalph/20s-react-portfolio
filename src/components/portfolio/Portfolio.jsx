@@ -24,7 +24,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Group Project 2 -SKLHub',
-    desc: 'A skill bartering money-free application. Technologies: Node.js and its dependencies, Express.js, Handlebars, MySQL Sequielize ORM',
+    desc: 'A skill bartering money-free application the users to revert to the old way of doing things.  Technologies: Node.js and its dependencies, Express.js, Handlebars, MySQL Sequielize ORM',
     github: 'https://github.com/stellalph/sklhub.git',
     demo: 'https://warm-citadel-17427.herokuapp.com/'
   },
@@ -32,7 +32,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Group Project 1 - Travel Planner',
-    desc: 'A travel planner for travellers to plan activities. Technologies: HTML, CSS Materialise, JQuery, Moment.js and the Fetch API',
+    desc: 'A travel planner for travellers to plan activities and manage their budget. Technologies: HTML, CSS Materialise, JQuery, Moment.js and the Fetch API',
     github: 'https://chardige.github.io/Travel-planner/',
     demo: 'https://github.com/CharDige/Travel-planner.git'
   },
@@ -40,7 +40,7 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'MERN Ski Resort',
-    desc: 'A MERN single page application encouraging the users to stay active.  Technologies: React, GraphQL, Node.js and MongoDB',
+    desc: 'A MERN single page application encouraging the users to stay active and healthy and foster friendships.  Technologies: React, GraphQL, Node.js and MongoDB',
     github: 'https://github.com/stellalph/MERN-Ski-Resort.git',
     demo: 'https://still-harbor-63486.herokuapp.com/'
   },
@@ -68,7 +68,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h2>PROJECTS</h2>
+      <h2>Projects</h2>
 
       <div className="container portfolio__container">
         {

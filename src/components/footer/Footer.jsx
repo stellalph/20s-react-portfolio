@@ -17,6 +17,9 @@ const Footer = () => {
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+
+
+      
 {/* SOCIAL LINKS */}
       <div className="footer__socials">
         <a href="https://github.com/stellalph" target="_blank" rel="noopener noreferrer"><FaGithub /></a>

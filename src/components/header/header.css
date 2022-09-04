@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 90vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -8,13 +8,15 @@ header {
   text-align: center;
   height: 100%;
   position: relative;
+  font-size: 25px;
+
 }
 
 /* =============== CTA ============== */
 .cta {
-  margin-top: 2.5rem;
+  margin-top: 2.0rem;
   display: flex;
-  gap: 1.2rem;
+  gap: 1.5rem;
   justify-content: center;
 }
 
@@ -23,9 +25,9 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.9rem;
+  gap: 1.9rem;
   position: absolute;
-  font-size: 2rem;
+  font-size: 3rem;
   left: 10px;
   bottom: 4rem;
 }
@@ -41,11 +43,11 @@ header {
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 15rem;
-  height: 23rem;
+  height: 25rem;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  margin-top: 4rem;
+  margin-top: 10rem;
   border-radius: 2rem 2rem 2 2;
   overflow: hidden;
   padding: 0rem 0rem 0rem 0rem;
