@@ -114,14 +114,14 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - WHEN I enter text into the email address field
 - THEN I receive a notification if I have entered an invalid email address
 
-  ![alt text](./src/assets/img16ve.png)
+  ![alt text](./src/assets/img16ve.jpg)
 
 9.  **Resume**
 
 - WHEN I am presented with the Resume section
 - THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 
-  ![alt text](./src/assets/img08.png)
+  ![alt text](./src/assets/img08.jpg)
   ![alt text](./src/assets/img09.jpg)
 
 10. **Footer**
