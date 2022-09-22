@@ -28,11 +28,11 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
     - npx create-react-app 20S-react-portfolio
     - npm install
     - npm start (run the apps in the development and http://localhost:3000 to view it in the browser)
-    - npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons    for this application)
+    - npm install react-icons --save (for including the popular icons easily with react-icons which utilizes ES6 imports that allows inclusion of icons for this application)
     - npm install @emailjs/browser
     - npm run build (builds the app for production to the folder to correctly bundles React in production mode and optimizes the build for the best performance)
     - npm install validator (to validate the email)
- 
+
 ## Deployment
 
 - To deploy the react application, we add the homepage to package.json:-
@@ -71,7 +71,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 2.  **The navigation bar (floating)**
 
-  ![alt text](./src/assets/img13fnav.png)
+![alt text](./src/assets/img13fnav.png)
 
 3.  **About Me Section**
 
@@ -80,7 +80,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - WHEN I am presented with the About Me section
 - THEN I see a recent photo or avatar of the developer and a short bio about them
 
-    ![alt text](./src/assets/img04.jpg)
+  ![alt text](./src/assets/img04.jpg)
 
 4.  **Skill Section**
 
