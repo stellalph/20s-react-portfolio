@@ -86,7 +86,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 
 - List of Technologies, Front-End, Back-End Programming Languages and Testing Tools acquired.
 
-  ![alt text](./src/assets/img05.png)
+  ![alt text](./src/assets/img05.jpg)
 
 5.  **Portfolio Section**
 
@@ -100,14 +100,14 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - WHEN I am presented with the Contact section
 - THEN I see a contact form with fields for a name, an email address, and a message
 
-  ![alt text](./src/assets/img10.png)
+  ![alt text](./src/assets/img10.jpg)
 
 7.  **Contact Form Validation**
 
 - WHEN I move my cursor out of one of the form fields without entering text
 - THEN I receive a notification that this field is required
 
-  ![alt text](./src/assets/img17.png)
+  ![alt text](./src/assets/img17.jpg)
 
 8.  **Email Validation**
 
