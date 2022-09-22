@@ -67,7 +67,7 @@ The repository name is **20s-react-portfolio** and the URL of the GitHub reposit
 - WHEN I click on a navigation title
 - THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
 
-  ![alt text](./src/assets/img03.png)
+  ![alt text](./src/assets/img03.jpg)
 
 2.  **The navigation bar (floating)**
 
